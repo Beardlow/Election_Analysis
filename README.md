@@ -89,5 +89,5 @@ This code can also be built upon and modified to have some additional functional
 vote cast. A fairly simple script could be added that would be able to determine if each Ballot ID number is unique and to reject any duplicate votes from repeat 
 Ballot IDs. Another modification, that could be added, is if a file with the total registerd voter for a county is available, a script could be added that would flag a 
 particular county if the votes cast in a county were greater than the number of registered voters.  Both of these modifications can provide a way to qualitatively 
-audit fute election results.
+audit future election results.
   

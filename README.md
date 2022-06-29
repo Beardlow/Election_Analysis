@@ -81,6 +81,13 @@ for row in reader:
   
   ### Summary
   
-    This code is functional for the purpose given and for fulfilling the needs requested by the commision. If similar results are needed for other elections, the same script can be used with minimal modification, provided that the source file structure is the same. The only change needed would be the references to the file location would need to be updated if this code is used on other computer systems with different file structures. 
-    This code can also be built upon and modified to have some additional functionality tied to it. For example, the source file had the ballot ID associated with each vote cast. A fairly simple script could be added that would be able to determine if each Ballot ID number is unique and to reject any duplicate votes from repeat Ballot IDs. Another modification, that could be added, is if a file with the total registerd voter for a county is available, a script could be added that would flag a particular county if the votes cast in a county were greater than the number of registered voters.  Both of these modifications can provide a way to qualitatively audit fute election results.
+This code is functional for the purpose given and for fulfilling the needs requested by the commision. If similar results are needed for other elections, the same 
+script can be used with minimal modification, provided that the source file structure is the same. The only change needed would be the references to the file location 
+would need to be updated if this code is used on other computer systems with different file structures. 
+
+This code can also be built upon and modified to have some additional functionality tied to it. For example, the source file had the ballot ID associated with each 
+vote cast. A fairly simple script could be added that would be able to determine if each Ballot ID number is unique and to reject any duplicate votes from repeat 
+Ballot IDs. Another modification, that could be added, is if a file with the total registerd voter for a county is available, a script could be added that would flag a 
+particular county if the votes cast in a county were greater than the number of registered voters.  Both of these modifications can provide a way to qualitatively 
+audit fute election results.
   

@@ -32,5 +32,6 @@ if county_name not in counties:
         counties_dict[county_name] += 1
 ```
 As we can see below Denver county had the highest turnout with a total of 306,055 votes.
+
 ![County Results](https://github.com/Beardlow/Election_Analysis/blob/main/County_Results_in_Terminal.png)
 
